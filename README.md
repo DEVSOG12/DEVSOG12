@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![](https://komarev.com/ghpvc/?username=DEVSOG12&color=brightgreen)
+
 <!--
 **DEVSOG12/DEVSOG12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
