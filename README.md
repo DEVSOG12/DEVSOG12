@@ -2,6 +2,8 @@
 
 
 ![](https://komarev.com/ghpvc/?username=DEVSOG12&color=brightgreen)
+[![DEVSOG12's github stats](https://github-readme-stats.vercel.app/api?username=DEVSOG12)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **DEVSOG12/DEVSOG12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
