@@ -3,7 +3,7 @@
 
 ![!](https://komarev.com/ghpvc/?username=DEVSOG12&color=brightgreen)
 
-[![DEVSOG12's github stats](https://github-readme-stats.vercel.app/api?username=DEVSOG12)](https://github.com/DEVSOG12)
+[![DEVSOG12's github stats](https://github-readme-stats.vercel.app/api?username=DEVSOG12)](https://github.com/google)
 <img src="https://github.com/kroikie/kroikie/blob/master/flutterfire.png" align="right" width="300px"></img>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVSOG12&layout=compact&count_private=true)](https://github.com/DEVSOG12/)
