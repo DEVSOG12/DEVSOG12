@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 
-![!](https://komarev.com/ghpvc/?username=DEVSOG12&color=brightgreen)
+![!](https://komarev.com/ghpvc/?username=google&color=brightgreen)
 
-[![DEVSOG12's github stats](https://github-readme-stats.vercel.app/api?username=DEVSOG12)](https://github.com/google)
-<img src="https://github.com/kroikie/kroikie/blob/master/flutterfire.png" align="right" width="300px"></img>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DEVSOG12&show_icons=true)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVSOG12&layout=compact&count_private=true)](https://github.com/DEVSOG12/)
 <!--
@@ -12,7 +11,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a [Project](https://github.com/orgs/BuildForSDGCohort2/teams/techbuzs)
+- 🔭 I’m currently working on a [Project](https://github.com/DEVSOG12/puzzzi)
 
 - 🔥 I’m currently working on Firebase + Flutter
 - 👯 I’m looking to collaborate on ^
