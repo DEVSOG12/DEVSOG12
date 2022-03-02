@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![!](https://komarev.com/ghpvc/?username=google&color=brightgreen)
+![!](https://komarev.com/ghpvc/?username=DEVSOG12&color=brightgreen)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DEVSOG12&show_icons=true)  
 
