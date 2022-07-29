@@ -12,7 +12,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a [Project](https://github.com/wake/wake-app)
+- 🔭 I’m currently working on a [Project](https://github.com/wake-group/Wake-App)
 
 - 🔥 I’m currently working on Firebase + Flutter
 - 👯 I’m looking to collaborate on ^
