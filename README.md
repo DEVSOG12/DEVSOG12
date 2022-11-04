@@ -8,7 +8,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=DEVSOG12)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/SnappyBoye)](https://leetcode.com/devsog12)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/devsog12)](https://leetcode.com/devsog12)
 
 <!--
 **DEVSOG12/DEVSOG12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
