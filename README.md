@@ -7,6 +7,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVSOG12&layout=compact&theme=tokyonight)](https://github.com/DEVSOG12)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=DEVSOG12)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/SnappyBoye)](https://leetcode.com/devsog12)
+
 <!--
 **DEVSOG12/DEVSOG12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
