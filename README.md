@@ -17,6 +17,6 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on  [...](https://devsog12.dev)
+- 🔭 I’m currently working on[...](https://devsog12.dev)
 - 🔥 I’m currently working on a couple of Software Engineering Research Projects
 - 👯 I’m looking to collaborate on ^
